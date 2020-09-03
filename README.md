@@ -1,5 +1,6 @@
 # OTRS-System-Configuration-History
 - SQL / Statistic Module Regarding Changes in OTRS System Configuration  
+- Case Reference: https://forums.otterhub.org/viewtopic.php?f=62&t=42002
 
 - SQL For Current Changes (Unique)  
 	
