@@ -25,10 +25,8 @@
 		FROM sysconfig_modified_version smv
 		JOIN sysconfig_default_version sdv ON (smv.sysconfig_default_version_id=sdv.id)
 		JOIN users u ON (smv.change_by=u.id)
-		ORDER BY smv.name
+		ORDER BY smv.name  
 		
-
-[![1.png](https://i.postimg.cc/Fs68R9jS/1.png)](https://postimg.cc/HVQBv1vW)
 
 [![2.png](https://i.postimg.cc/yN4GmvpY/2.png)](https://postimg.cc/JsxKmcW9)
 
